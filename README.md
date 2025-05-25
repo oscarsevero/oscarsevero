@@ -9,9 +9,12 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
+<p align="center">
+  Atualmente curso Técnico em Informática para Internet na Escola Estadual Protásio Alves (jul/2024 – dez/2025), com foco no desenvolvimento, manutenção e gerenciamento de sites e aplicações web. Estou aprendendo a atuar tanto no frontend quanto no backend, com atenção à performance, segurança e boas práticas de desenvolvimento.
+  <br><br>
+  Entre as habilidades desenvolvidas estão: planejamento e documentação de sistemas, codificação para web e dispositivos móveis, estruturação de bancos de dados, publicação, testes e manutenção de aplicações.
+</p>
+
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
