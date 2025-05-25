@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/oscarricardo">
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF" alt="LinkedIn" />
   </a>
-  <a href="[https://www.instagram.com/oscarricardo](https://www.instagram.com/oscar_ricardo_ss?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D)">
+  <a href="https://www.instagram.com/oscar_ricardo_ss?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D)">
     <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=FFF" alt="Instagram" />
   </a>
 </p>
