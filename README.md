@@ -47,28 +47,4 @@
 </div>
 
 
-#
-
-<div align="center">
-  <h3>✨ GitHub Stats ✨</h3>
-  <br/><br/>
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oscarsevero&layout=compact&langs_count=6&hide=html,scss,less&title_color=FF00F6&text_color=8B8B8B&bg_color=000&border_radius=6&border_color=561760" alt="Most Used Languages" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oscarsevero&theme=tokyonight&hide_border=true&background=000000&ring=FF00F6&fire=FF00F6&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FF00F6" alt="GitHub Streak" />
-</div>
-
-
-
-
-#
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oscarsevero/oscarsevero/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oscarsevero/oscarsevero/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oscarsevero/oscarsevero/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
